@@ -22,6 +22,7 @@ public class MainController {
 	public String mostraindexjsp() {
 		
 		System.out.print("oook");
+		System.out.print("oook");
 		return "index";
 	}
 	
