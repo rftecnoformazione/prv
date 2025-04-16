@@ -21,7 +21,7 @@ public class MainController {
 	@GetMapping(path="/index")
 	public String mostraindexjsp() {
 		
-		
+		System.out.print("oook");
 		return "index";
 	}
 	
